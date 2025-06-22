@@ -1,0 +1,10 @@
+.btn-danger {
+  background-color: red !important; /* Override global blue */
+  font-size: 20px !important; /* Make it large */
+  padding: 15px 30px !important;
+  font-weight: bold;
+}
+
+.btn-danger:hover {
+  background-color: darkred !important;
+}
